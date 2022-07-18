@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1,
+        "name": "Best Guava",
+        "saleprice": 20,
+        "regularprice": 25,
+        "image": "https://knfm.edu.bd/bengalshop/guava.jpg",
+        "categories": [
+            {
+                "name": "Fruits"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Guava"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Best Apple",
+        "saleprice": 25,
+        "regularprice": 35,
+        "image": "https://knfm.edu.bd/bengalshop/apple.jpg",
+        "categories": [
+            {
+                "name": "Fruits"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Apple"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Best Bedana",
+        "saleprice": 250,
+        "regularprice": 305,
+        "image": "https://knfm.edu.bd/bengalshop/bedana.jpg",
+        "categories": [
+            {
+                "name": "Bedana"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Bedana"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Best Capsikam",
+        "saleprice": 40,
+        "regularprice": 50,
+        "image": "https://knfm.edu.bd/bengalshop/capsikam.jpg",
+        "categories": [
+            {
+                "name": "capsikam"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Capsikam"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Best Dragon Fruit",
+        "saleprice":450,
+        "regularprice": 500,
+        "image": "https://knfm.edu.bd/bengalshop/dragon.jpg",
+        "categories": [
+            {
+                "name": "Dragon"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Dragon"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Best Pineapple",
+        "saleprice": 250,
+        "regularprice": 350,
+        "image": "https://knfm.edu.bd/bengalshop/pineapple.jpg",
+        "categories": [
+            {
+                "name": "Fruits"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Pineapple"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Best Sauce",
+        "saleprice": 100,
+        "regularprice": 200,
+        "image": "https://knfm.edu.bd/bengalshop/sauce.jpg",
+        "categories": [
+            {
+                "name": "Sauce"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Sauce"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Best Watermelon",
+        "saleprice": 100,
+        "regularprice": 200,
+        "image": "https://knfm.edu.bd/bengalshop/watermelon.jpg",
+        "categories": [
+            {
+                "name": "Fruits"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Watermelon"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Best Mango",
+        "saleprice": 25,
+        "regularprice": 35,
+        "image": "https://knfm.edu.bd/bengalshop/mango.jpg",
+        "categories": [
+            {
+                "name": "Fruits"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Mango"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Best Lichu",
+        "saleprice": 15,
+        "regularprice": 25,
+        "image": "https://knfm.edu.bd/bengalshop/lichu.jpg",
+        "categories": [
+            {
+                "name": "Fruits"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Daal"
+            }
+        ],
+        "tags": [
+            {
+                "name": "Lichu"
+            },
+            {
+                "name": "Veg"
+            },
+            {
+                "name": "Fruit"
+            }
+        ]
+    }
+]
